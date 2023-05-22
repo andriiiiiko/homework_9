@@ -1,0 +1,19 @@
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea/
+
+# Ignore files with extension out
+*.out
+# Project exclude paths
+/out/
